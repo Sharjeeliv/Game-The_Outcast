@@ -1,6 +1,6 @@
 # The Outcast
 
-All the code in this is from a game I made in 2019 for an intro to programming class. Currently I am drafting a plan on updating the game with the following things:
+All the code in this is from a game I made in 2018-2019 for an intro to programming class. Currently I am drafting a plan on updating the game with the following things:
 - Implementing design principles such as:
   - Reducing duplication (DRY)
   - Designing classes with completeness which can be extended to add functionality (OCP)
